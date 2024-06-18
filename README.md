@@ -14,6 +14,6 @@ Eii! Bem-vindo ao meu GitHub 👋😜
 + 🔧 **Ferramentas:** VSCode, Git, Figma
 
 ## Fale comigo
-<a href="mailto:arthurnz.personal@gmail.com"><img src="Images/Gmail.png" style="width:40px;" align="center"></a><a href="https://www.linkedin.com/in/arthur-abade-nazareth-202559312/"><img src="Images/Linkedin.png" style="width:40px;" align="center"></a><a href="https://www.instagram.com/tuta_nzth?igsh=OXI0NTdxZmpuOW55"><img = src="Images/Insta.png" style="width:40px;" align="center"></a>
+<a href="mailto:arthurnz.personal@gmail.com"><img src="Images/Gmail.png" style="width:40px;" align="center"></a><a href="https://www.linkedin.com/in/arthur-abade-nazareth-202559312/"><img src="Images/Linkedin.png" style="width:40px;" align="center"></a>
 
 + arthurnz.personal@gmail.com
