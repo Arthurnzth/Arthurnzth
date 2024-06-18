@@ -9,7 +9,7 @@ Eii! Bem-vindo ao meu GitHub 👋😜
 + 💡 **Estudando:** Java, Programação Orientada a Objetos, Python
 
 ## Habilidades
-<img src="Images/Git.png" alt="Git" style="width:40px;" align="center"><img src="Images/Java.png" alt="Java" style="width:40px;" align="center"><img src="Images/Python.png" alt="Python" style="width:40px;" align="center"><img src="Images/VSCode.png" alt="VSCode" style="width:40px;" align="center"><img src="Images/Markdown.png" alt="Markdown" style="width:40px;" align="center">
+<img src="Images/Git.png" alt="Git" style="width:40px;" align="center"><img src="Images/Java.png" alt="Java" style="width:40px;" align="center"><img src="Images/Python.png" alt="Python" style="width:45px;" align="center"><img src="Images/VSCode.png" alt="VSCode" style="width:40px;" align="center"><img src="Images/Markdown.png" alt="Markdown" style="width:40px;" align="center">
 
 + 🔧 **Ferramentas:** VSCode, Git, Figma
 
