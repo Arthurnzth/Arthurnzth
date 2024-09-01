@@ -5,7 +5,7 @@ Eii! Bem-vindo ao meu GitHub 👋😜
 + 📚 **Universitário:** Ciência da Computação na [Newton Paiva](https://newtonpaiva.br)
 + 💬 **Idiomas:** Falo Português e Inglês, aprendendo Alemão
 + 💎 **Hobbies:** Jogos, piano e família
-+ ❤️ **Sonhos:** Me desenvolver para trabalhar como Desenvolvedor de Software e Analísta de Segurança
++ ❤️ **Sonhos:** Me desenvolver para trabalhar como Desenvolvedor de Software e Pentester
 + 💡 **Estudando:** Java, Programação Orientada a Objetos, Python
 
 ## Habilidades
