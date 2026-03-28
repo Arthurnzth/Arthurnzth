@@ -2,14 +2,14 @@
 Eii! Bem-vindo ao meu GitHub 👋😜
 
 ## Sobre mim
-+ 📚 **Universitário:** Ciência da Computação na [Newton Paiva](https://newtonpaiva.br)
++ 📚 **Universitário:** Ciência da Computação 5º período na [Newton Paiva](https://newtonpaiva.br)
 + 💬 **Idiomas:** Falo Português e Inglês, aprendendo Alemão
 + 💎 **Hobbies:** Jogos, piano e família
-+ ❤️ **Sonhos:** Me desenvolver para trabalhar como Desenvolvedor de Software e Pentester
-+ 💡 **Estudando:** Java, Programação Orientada a Objetos, Python
++ ❤️ **Sonhos:** Me desenvolver para trabalhar como Desenvolvedor Java
++ 💡 **Estudando:** Java, Spring Boot, JavaScript, React Native, Python
 
 ## Habilidades
-<img src="Images/Git.png" alt="Git" style="width:40px;" align="center"><img src="Images/Java.png" alt="Java" style="width:40px;" align="center"><img src="Images/Python.png" alt="Python" style="width:45px;" align="center"><img src="Images/VSCode.png" alt="VSCode" style="width:40px;" align="center"><img src="Images/Markdown.png" alt="Markdown" style="width:40px;" align="center">
+<img src="Images/Git.png" alt="Git" style="width:40px;" align="center"> <img src="Images/Java.png" alt="Java" style="width:40px;" align="center"> <img src="Images/Python.png" alt="Python" style="width:45px;" align="center"> <img src="Images/VSCode.png" alt="VSCode" style="width:40px;" align="center"> <img src="Images/Markdown.png" alt="Markdown" style="width:40px;" align="center"> <img src="Images/SAP.png" alt="SAP" style="width:40px;" align="center">
 
 + 🔧 **Ferramentas:** VSCode, Git, Figma
 
